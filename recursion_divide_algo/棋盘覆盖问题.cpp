@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  c_play
-//
-//  Created by WangZiyi on 2020/6/18.
-//  Copyright © 2020 WangZiyi. All rights reserved.
-//
-
 #include <iostream>
 #include <math.h>
 
