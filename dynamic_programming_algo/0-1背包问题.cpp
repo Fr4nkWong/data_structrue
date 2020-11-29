@@ -27,7 +27,7 @@ int main() {
     printf("输入物品数:\n");
     scanf("%d", &n);
     printf("请分别输入物品的重量:\n");
-    for(i=0; i<n; i++)scanf("%d", &w[i]);
+    for(i=0; i<n; i++) scanf("%d", &w[i]);
     printf("请分别输入物品的价值:\n");
     for(i=0; i<n; i++) scanf("%d", &v[i]);
     s = knap_sack(n, w, v, x, c);
